@@ -1,6 +1,6 @@
 @@ -1,30 +0,0 @@
 !------------------------------------------------------------------------------
-	!                       Pokhara University
+!                       Pokhara University
 !            Nepal College of Information Technology
 !               Department of Software Engineering
 !            
